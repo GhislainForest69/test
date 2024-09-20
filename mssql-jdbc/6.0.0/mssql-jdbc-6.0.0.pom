@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0http://maven.apache.org/xsd/maven-4.0.0.xsd">  
+  <modelVersion>4.0.0</modelVersion>  
+  <groupId>org.talend.libraries</groupId>  
+  <artifactId>mssql-jdbc</artifactId>  
+  <version>6.0.0</version>  
+  <packaging>pom</packaging>  
+  <name>Talend Third party library : mssql-jdbc.jar</name>  
+  <description>Microsoft SQL JDBC library</description>  
+  <url>https://www.microsoft.com/en-us/download/details.aspx?id=11774</url>  
+  <licenses> 
+    <license> 
+      <name>Proprietary</name>  
+      <url>http://www.talendforge.org/modules/licenses/PROPRIETARY.txt</url> 
+    </license> 
+  </licenses> 
+</project>
